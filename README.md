@@ -1,4 +1,4 @@
-[![MasterHead](https://images.getimg.ai/resize?url=https%3A%2F%2Fimg.getimg.ai%2Fgenerated%2Fimg-hjkPanEwKITD8Zw5Rzq5D.jpeg&type=auto&width=1024)](https://mostafa-amr.netlify.app/)
+[![MasterHead]([https://images.getimg.ai/resize?url=https%3A%2F%2Fimg.getimg.ai%2Fgenerated%2Fimg-hjkPanEwKITD8Zw5Rzq5D.jpeg&type=auto&width=1024](https://i.imgur.com/x8GLl0y.png))](https://mostafa-amr.netlify.app/)
 <h1 align="center">Hi 👋, I'm Mostafa Amr</h1>
 <h3 align="center">Designing Seamless Interfaces: Front-End Developer & UI/UX Designer</h3>
 <img align="right" alt="coding" width="400" src="https://img.getimg.ai/generated/img-mor154uexcMeycceuCC46.jpeg">
