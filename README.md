@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **MostafaAmro5619@gmail.om**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Q1UOTzopBIqWkgqspAPYoDNkbnzumAZZ/view?usp=sharing](https://drive.google.com/file/d/1Q1UOTzopBIqWkgqspAPYoDNkbnzumAZZ/view?usp=sharing)
+- 📄 Know about my experiences [https://shorturl.at/owU38](https://shorturl.at/owU38)
 
 - ⚡ Fun fact **Avid Gamer**
 
