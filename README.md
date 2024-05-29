@@ -22,12 +22,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mostafa02080865" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mostafa02080865" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mostafa-amr-452434188/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mostafa-amr-452434188/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/chetos.amr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/chetos.amr/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mostafa_amr0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mostafa_amr0/" height="30" width="40" /></a>
 <a href="https://www.behance.net/mostafaamro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/mostafaamro" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/uct92xpjckv4hiw6orffhoxw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uct92xpjckv4hiw6orffhoxw" height="30" width="40" /></a>
 <a href="https://discord.gg/.chetos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".chetos" height="30" width="40" /></a>
 </p>
 
